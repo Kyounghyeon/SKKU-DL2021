@@ -1,0 +1,1 @@
+After cloning github repository, please locate the 'demo' folder into 'stargan-v2' folder 
